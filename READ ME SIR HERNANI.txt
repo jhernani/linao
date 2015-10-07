@@ -1,0 +1,13 @@
+admin page:
+localhost/3coins/webpages/admin
+
+uname: admin
+pword: 1234
+
+modules available:
+refer to nav bar*
+-Branches
+-Employees
+-Inventory
+
+sql name: psi.sql
